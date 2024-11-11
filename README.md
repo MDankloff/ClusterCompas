@@ -1,7 +1,7 @@
 # Using SHAP Values for Clustering-based Bias Identification
 This repository contains the code associated with our paper: "Using SHAP Values for Clustering-Based Bias Identification." 
 
-#Repository Structure
+# Repository Structure
 The repository is organized into 5 Notebooks:
     Pre-processing Notebooks (2):
         Data cleaning, error labeling, and computing SHAP values to set up experimental conditions.
