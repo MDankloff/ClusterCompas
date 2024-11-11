@@ -32,4 +32,5 @@ git clone https://github.com/MDankloff/ClusterCompas.git
 
 # Contact
 This code was developed by Mirthe Dankloff and Emma Beauxis-Aussalet. 
+
 For questions about the paper or code please contact: m.e.dankloff@vu.nl, e.m.a.l.beauxisaussalet@vu.nl.
