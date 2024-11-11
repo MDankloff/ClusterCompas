@@ -1,6 +1,8 @@
 # Using SHAP Values for Clustering-based Bias Identification
 In this repo, you can find the code for our paper "Using SHAP Values for Clustering-based Bias Identification."
+
 We provide five notebooks, two for the pre-processing and three for each different clustering method (K-Means, K-Prototypes, DBSCAN).
+In the pre-processing notebooks, we provide the code for cleaning the data, adding the error labels and SHAP values to create the experimental conditions. Also, some preliminary visualizations are provided with tsne.
 
 Per clustering notebook, we provide:
 * Utils for data prep, clustering, results and visualization
