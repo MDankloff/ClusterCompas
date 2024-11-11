@@ -3,10 +3,12 @@ This repository contains the code associated with our paper: "Using SHAP Values 
 
 # Repository Structure
 The repository is organized into 5 Notebooks:
-    Pre-processing Notebooks (2):
+
+    -Pre-processing Notebooks (2):
         Data cleaning, error labeling, and computing SHAP values to set up experimental conditions.
         Includes preliminary visualizations using t-SNE.
-    Clustering Notebooks (3):
+        
+    -Clustering Notebooks (3):
         Each notebook covers a different clustering approach: K-Means, K-Prototypes, and DBSCAN.
 
 We provide 5 notebooks, 2 for the pre-processing and 3 for each different clustering method (K-Means, K-Prototypes, DBSCAN).
