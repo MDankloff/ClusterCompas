@@ -1,10 +1,10 @@
 # Using SHAP Values for Clustering-based Bias Identification
-In this repo, you can find the code for out paper "Using SHAP Values for Clustering-based Bias Identification."
+In this repo, you can find the code for our paper "Using SHAP Values for Clustering-based Bias Identification."
 
 # Getting started
+Use the Compas_error_shap.csv dataset to run the code for all clustering methods (K-Means, K-Prototypes, DBSCAN). 
 
 
-You should be able to run the code now!
 
 # Contact
 
