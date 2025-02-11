@@ -43,7 +43,7 @@ To replicate our experiments, you'll need the following datasets:
 **german_processed**: use this original dataset from UCI repository to run the pre-processing notebook (German_credit_exploratory) 
 
 # Run the notebook
-    git clone https://github.com/MDankloff/ClusterCompas.git
+    git clone https://github.com/MDankloff/ClusterCompasCredit.git
 
 # Contact
 This code was developed by Mirthe Dankloff and Emma Beauxis-Aussalet. 
